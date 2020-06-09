@@ -1,4 +1,4 @@
-package com.xxyxu.chap1.fig1;
+package com.xxyxu.chap1;
 
 import java.util.ArrayList;
 

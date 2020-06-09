@@ -1,4 +1,4 @@
-package com.xxyxu.chap1.fig1;
+package com.xxyxu.chap1;
 
 /**
  * Iterator（反復子）インタフェース<br>

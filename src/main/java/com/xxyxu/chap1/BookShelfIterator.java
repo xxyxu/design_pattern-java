@@ -1,4 +1,4 @@
-package com.xxyxu.chap1.fig1;
+package com.xxyxu.chap1;
 
 /**
  * ConcreteIterator（具体的な反復子）クラス<br>
